@@ -15,8 +15,7 @@ const char* fingerprint  = "46 B2 C3 44 9C 59 09 8B 01 B6 F8 BD 4C FB 00 74 91 2
 const char* ssid = "";
 const char* password = "";
 String GOOGLE_SCRIPT_ID = ""; 
-//AKfycbysCkniq5LUbn_3ZjXf6hK7m292g1oAT_kXej5KnyR4qXFdWYVb
-const String unitName = "AnnaNagarWest"; 
+const String unitName = ""; 
 uint64_t openGateMillis = 0;
 WiFiClientSecure client;
 
